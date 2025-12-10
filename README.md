@@ -6,14 +6,17 @@
 
 ## Install pip
 
-```python -m ensurepip --default-pip
+```bash
+python -m ensurepip --default-pip
 ```
 
 * Python 3.x : https://www.python.org/downloads/
 * Python libraries: `requests`, `pystyle`.
-```python -m pip install requests
+```bash
+python -m pip install requests
 ```
-```python -m pip install pystyle
+```bash
+python -m pip install pystyle
 ```
 
 # 〢 Tutorial
